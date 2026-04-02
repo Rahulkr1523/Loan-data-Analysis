@@ -41,7 +41,6 @@ Python was used for data cleaning, SQL for data analysis, and Power BI for creat
 ---
 
 ##  Dashboard Preview
-(Add your Power BI dashboard screenshot here)
 ![Dashboard](Loan%20Prediction%20dashboard.png)
 ---
 
