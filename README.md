@@ -1,20 +1,20 @@
 # Loan Data Analysis
 
-## 📌 Project Description
+##  Project Description
 This project focuses on analyzing loan applicant data to understand income distribution, credit history, and identify key patterns. The analysis reveals that the majority of applicants have good credit history, fall into the medium income range, and primarily belong to urban areas.
 
 Python was used for data cleaning, SQL for data analysis, and Power BI for creating visualizations and an interactive dashboard.
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 - Python (Pandas, NumPy)
 - SQL (MySQL)
 - Power BI
 
 ---
 
-## 🔄 Project Workflow
+##  Project Workflow
 1. Data Cleaning using Python
    - Handled missing values
    - Converted data types
@@ -31,7 +31,7 @@ Python was used for data cleaning, SQL for data analysis, and Power BI for creat
 
 ---
 
-## 📊 Key Insights
+##  Key Insights
 - Majority of applicants (~84%) have good credit history
 - Most applicants fall in the medium income category
 - Urban areas have the highest number of loan applicants
@@ -40,12 +40,12 @@ Python was used for data cleaning, SQL for data analysis, and Power BI for creat
 
 ---
 
-## 📸 Dashboard Preview
+##  Dashboard Preview
 (Add your Power BI dashboard screenshot here)
-
+![Dashboard](Loan%20Prediction%20dashboard.png)
 ---
 
-## 📁 Project Files
+## Project Files
 - Cleaned Dataset (CSV)
 - SQL Queries File
 - Power BI Dashboard (.pbix)
@@ -53,7 +53,7 @@ Python was used for data cleaning, SQL for data analysis, and Power BI for creat
 
 ---
 
-## 📬 Contact
+##  Contact
 Rahul Kumar  
 📧 Email: rahulbabu7177@gmail.com  
 🔗 GitHub: https://github.com/Rahulkr1523  
